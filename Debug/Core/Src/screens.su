@@ -1,0 +1,7 @@
+screens.c:13:6:letterselect	24	static
+screens.c:124:6:type	32	static
+screens.c:133:6:InitialScreen	8	static
+screens.c:142:6:MenuScreen	8	static
+screens.c:149:6:BluetoothScreen	8	static
+screens.c:157:6:ScheduleScreen	8	static
+screens.c:164:6:DispensedScreen	8	static

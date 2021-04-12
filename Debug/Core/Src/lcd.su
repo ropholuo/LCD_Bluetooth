@@ -1,0 +1,11 @@
+lcd.c:22:6:LCD_GpioInit	40	static
+lcd.c:41:6:LCD_LtdcInit	8	static
+lcd.c:49:6:LCD_DispInit_Spi	8	static
+lcd.c:178:6:LCD_DispInit_Ltdc	8	static
+lcd.c:335:6:LCD_ChipSelect	16	static
+lcd.c:339:6:LCD_ModeSelect	16	static
+lcd.c:343:6:LCD_WriteCommand	16	static
+lcd.c:351:6:LCD_WriteData	16	static
+lcd.c:359:6:LCD_WriteBulkData	16	static
+lcd.c:367:6:LCD_WriteGRAM	16	static
+lcd.c:373:6:LCD_ClearScreenLtdc	16	static
